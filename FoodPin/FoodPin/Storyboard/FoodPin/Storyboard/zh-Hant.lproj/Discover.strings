@@ -1,0 +1,21 @@
+/* Class = "UINavigationItem"; title = "Discover"; ObjectID = "6NN-KS-1kw"; */
+"6NN-KS-1kw.title" = "發掘";
+
+/* Class = "UILabel"; text = "Phone"; ObjectID = "CfP-Jf-sVN"; */
+"CfP-Jf-sVN.text" = "電話";
+
+/* Class = "UITabBarItem"; title = "Discover"; ObjectID = "fEU-95-VQT"; */
+"fEU-95-VQT.title" = "發掘";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "gUO-Hp-z7n"; */
+"gUO-Hp-z7n.text" = "名";
+
+/* Class = "UILabel"; text = "type"; ObjectID = "LP8-LG-AuI"; */
+"LP8-LG-AuI.text" = "類別";
+
+/* Class = "UILabel"; text = "Address"; ObjectID = "RQG-Cx-12b"; */
+"RQG-Cx-12b.text" = "地址";
+
+/* Class = "UILabel"; text = "Description"; ObjectID = "XAK-dl-9ti"; */
+"XAK-dl-9ti.text" = "簡介";
+

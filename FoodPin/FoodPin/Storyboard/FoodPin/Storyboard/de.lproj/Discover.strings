@@ -1,0 +1,21 @@
+/* Class = "UINavigationItem"; title = "Discover"; ObjectID = "6NN-KS-1kw"; */
+"6NN-KS-1kw.title" = "Discover";
+
+/* Class = "UILabel"; text = "Phone"; ObjectID = "CfP-Jf-sVN"; */
+"CfP-Jf-sVN.text" = "Phone";
+
+/* Class = "UITabBarItem"; title = "Discover"; ObjectID = "fEU-95-VQT"; */
+"fEU-95-VQT.title" = "Discover";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "gUO-Hp-z7n"; */
+"gUO-Hp-z7n.text" = "Name";
+
+/* Class = "UILabel"; text = "type"; ObjectID = "LP8-LG-AuI"; */
+"LP8-LG-AuI.text" = "art";
+
+/* Class = "UILabel"; text = "Address"; ObjectID = "RQG-Cx-12b"; */
+"RQG-Cx-12b.text" = "ADRESSE";
+
+/* Class = "UILabel"; text = "Description"; ObjectID = "XAK-dl-9ti"; */
+"XAK-dl-9ti.text" = "BESCHREIBUNG";
+
